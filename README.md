@@ -19,6 +19,6 @@ Step 1:
 Step 2:
     Use "git status" to make sure all files are in staging area
 Step 3:
-    Use "git commit" to open commit editor, type commit message, and use "CTRL-O" then "ENTER" to finish
+    Use "git commit" to open commit editor, type commit message, and use "CTRL-W" then "ENTER" to finish
 Step 4:
     Use "git status" once more to make sure staging tree is clear
