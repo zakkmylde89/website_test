@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    background: #eee
+}
+
+#hero-header {
+    text-align: center;
+    margin: 2px auto;
+}
